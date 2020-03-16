@@ -1,3 +1,87 @@
-body {background-color: black; font-family: verdana; text-align: center}
-h {color: gold; font-size: 32px; text-align: center}
-p {color: white; font-size: 20px; text-align: center}
+nav ul{
+    margin: 0;
+}
+
+nav ul li {
+    background-color: #666;
+    display: inline-block;
+    list-style-type: none;
+    padding: 5px;
+    margin: 0px;
+}
+
+header {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+
+header h {
+    text-align: justify;
+    display: inline;
+}
+
+body {
+    color: white; 
+    background-color: black; 
+    font-family: arial; 
+    text-align: center
+}
+
+h {
+    color: cadetblue; 
+    font-size: 32px; 
+    text-align: center
+}
+
+h2 {
+    color: cadetblue; 
+    font-size: 30px; 
+    text-align: center
+}
+
+h3 {
+    color: cadetblue; 
+    font-size: 28px; 
+    text-align: center
+}
+
+p {
+    color: white; 
+    font-size: 18px; 
+    text-align: center
+}
+
+a {
+    color: dodgerblue; 
+    font-size: 20px;
+}
+
+.picture {
+    margin: 1px;
+    width: 45vw;
+    text-align: center;
+    padding: .5px;
+}
+
+.text {
+    width: 50vw;
+    text-align:center;
+    margin-top: 20%;
+}
+
+.row {
+    width: 100%;
+}
+
+.imgleft {
+    margin: 5px;
+    padding-left: 25px;
+    border-radius: 3px;
+}
+
+.imgright {
+    margin: 5px;
+    padding-right: 25px;
+    border-radius: 3px;
+}
+
