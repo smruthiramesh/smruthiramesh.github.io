@@ -59,10 +59,10 @@ a {
 }
 
 .picture {
-    margin: 1px;
+    /* margin: 1px; */
     width: 45vw;
     text-align: center;
-    padding: .5px;
+    /* padding: .5px; */
 }
 
 .text {
@@ -76,19 +76,19 @@ a {
 }
 
 .imgleft {
-    margin: .5px;
-    padding-left: 2px;
+    /* margin: .5px; */
+    /* padding-left: 1px; */
     padding-bottom: 5px;
-    border-radius: 3px;
+    /* border-radius: 3px; */
     max-width: 90%;
     max-height: 90%;
 }
 
 .imgright {
     margin: .5px;
-    padding-right: 2px;
+    /* padding-right: 2px; */
     padding-bottom: 5px;
-    border-radius: 3px;
+    /* border-radius: 3px; */
     max-width: 90%;
     max-height: 90%;
 }
