@@ -11,7 +11,7 @@ nav ul li, footer ul li {
 }
 
 header{
-    background-color: whitesmoke;
+    background-color: #dbceac;
     font-size: 32px; 
     padding: 5px;
 }
@@ -19,42 +19,42 @@ header{
 header h1 {
     text-align: justify;
     display: inline;
-    color: cadetblue;
+    color: black;
 }
 
 body {
-    color: white; 
-    background-color: black; 
-    font-family: arial; 
+    color: black; 
+    background-color: white; 
+    font-family: Georgia, 'Times New Roman', Times, serifs; 
     text-align: center
 }
 
 h1 {
-    color: cadetblue; 
+    color: black; 
     font-size: 32px; 
     text-align: center
 }
 
 h2 {
-    color: cadetblue; 
+    color: black; 
     font-size: 30px; 
     text-align: center
 }
 
 h3 {
-    color: cadetblue; 
+    color: black; 
     font-size: 28px; 
     text-align: center
 }
 
 p {
-    color: white; 
+    color: black; 
     font-size: 18px; 
     text-align: center
 }
 
 a {
-    color: dodgerblue; 
+    color: brown; 
     font-size: 20px;
 }
 
@@ -95,4 +95,12 @@ a {
 
 footer {
     background-color: black;
+}
+
+.lefttext {
+    text-align: left;
+}
+
+.righttext {
+    text-align: right;
 }
